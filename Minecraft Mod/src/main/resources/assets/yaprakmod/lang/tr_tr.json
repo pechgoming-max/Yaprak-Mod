@@ -1,0 +1,34 @@
+{
+  "itemGroup.yaprakmod": "Yaprak-Mod",
+
+  "item.yaprakmod.tahta_makas": "Tahta Makas",
+  "item.yaprakmod.demir_makas": "Demir Makas",
+  "item.yaprakmod.altin_makas": "Altın Makas",
+  "item.yaprakmod.elmas_makas": "Elmas Makas",
+  "item.yaprakmod.efsanevi_makas": "Efsanevi Makas",
+  "item.yaprakmod.pc_item": "Yaprak Bilgisayarı",
+
+  "tooltip.yaprakmod.shears.desc": "Yaprakları keserek ek yaprak ve para kazandırır.",
+  "tooltip.yaprakmod.shears.speed": "Kesme hızı: x%s",
+  "tooltip.yaprakmod.shears.chance": "Ek yaprak şansı: %s",
+  "tooltip.yaprakmod.shears.max_bonus": "Azami ek yaprak: +%s",
+  "tooltip.yaprakmod.shears.money": "Yaprak başına kazanç: %s YP",
+  "tooltip.yaprakmod.shears.fireproof": "Ateşe dayanıklıdır",
+  "tooltip.yaprakmod.shears.legendary": "Efsanelerin yaprak kestiği makas.",
+
+  "tooltip.yaprakmod.pc.line1": "Sağ tıkla: Yaprak Marketi'ni aç",
+  "tooltip.yaprakmod.pc.line2": "Yaprakları sat, makas satın al.",
+
+  "screen.yaprakmod.pc.title": "Yaprak Bilgisayarı",
+  "gui.yaprakmod.pc.balance": "Bakiye: %s YP",
+  "gui.yaprakmod.pc.sell_all": "Tüm Yaprakları Sat (%s YP / adet)",
+  "gui.yaprakmod.pc.buy": "Satın Al: %s - %s YP",
+  "gui.yaprakmod.pc.close": "Kapat",
+  "gui.yaprakmod.pc.status.sold": "Yapraklar satıldı: +%s YP",
+  "gui.yaprakmod.pc.status.no_leaves": "Envanterinde satılacak yaprak yok!",
+  "gui.yaprakmod.pc.status.bought": "Satın alındı: -%s YP",
+  "gui.yaprakmod.pc.status.not_enough": "Yetersiz bakiye! (%s YP gerekli)",
+  "gui.yaprakmod.pc.status.no_pc": "Yaprak Bilgisayarı elinde olmalı!",
+
+  "message.yaprakmod.leaf_bonus": "+%s YP"
+}
