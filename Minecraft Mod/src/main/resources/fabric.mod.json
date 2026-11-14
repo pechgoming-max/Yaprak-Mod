@@ -1,0 +1,24 @@
+{
+  "schemaVersion": 1,
+  "id": "yaprakmod",
+  "version": "${version}",
+  "name": "Yaprak-Mod",
+  "description": "Özel makaslar, yaprak ekonomisi ve Yaprak Bilgisayarı ekleyen bir Fabric modu.",
+  "authors": [
+    "Kanki"
+  ],
+  "contact": {},
+  "license": "MIT",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "com.kanki.yaprakmod.YaprakMod"
+    ]
+  },
+  "depends": {
+    "fabricloader": ">=0.15.0",
+    "minecraft": "~1.20.1",
+    "java": ">=17",
+    "fabric-api": "*"
+  }
+}
